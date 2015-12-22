@@ -26,4 +26,4 @@ The HTML is provided for you. Carefully read the HTML code and inspect what each
 ####Recommended References:####
 
 1. [Document.getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
-2. [Git Immersion]
+2. [Git Immersion](http://gitimmersion.com/)
