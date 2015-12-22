@@ -4,6 +4,7 @@
 1. Introduction to working with JavaScript and HTML
 2. document.getElementById()
 3. Basic control flow (e.g. if...else, switch, etc)
+4. Introduction to Git and GitHub
 
 The goal of this exercise is to help you understand integrating JavaScript into HTML. Learning how to access HTML from JavaScript and manipulate values or texts stored in HTML will provide a good foundation in what to expect in front-end development.
 Your job is to modify calculator.js and make the simple calculator successfully perform addition, subtraction, multiplication, and division. 
