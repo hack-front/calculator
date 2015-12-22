@@ -15,11 +15,11 @@ The HTML is provided for you. Carefully read the HTML code and inspect what each
   1. Download Git using the following link: [https://git-scm.com/downloads](https://git-scm.com/downloads)
   2. In the repository page, you will see a fork button for the repository as shown. Click the button and fork the repo to your account. 
   3. Navigate to the forked repository in your account. Copy the link you find in the forked repo. (**The link MUST be from your forked repository. If you copy from the original repository, you will run into a problem in the future.**): ![git-link](https://github.com/hack-front/assets/blob/master/git-link.png?raw=true)
-  4. Open up your Terminal and type in the following:
-    *```git clone <your link goes here>```
+  4. Open up your Terminal and type in the following :
+    * ```git clone your-link-goes-here```
     * If the command on the Terminal is successful, you have successfully cloned your forked repository to your computer
 2. Modify calculator.js and make the calculator work
-3. Commit your codes and push the code to your remote repository (Refer to the Recommend References)
+3. Commit your codes and push the code to your remote repository (Refer to Git Immersion in Recommend References)
 
 #Good Luck!#
 
